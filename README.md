@@ -8,5 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## you can project locally by  : npm run dev 
-Port wil run on localhost : 3000
+Project will run on port , localhost : 3000
 ### Server is live on https://recipesearch-fronted-project-1.onrender.com/
